@@ -1,0 +1,6 @@
+{
+  "name": "Delhi Gym",
+  "description": "Official website for Delhi gay gym in Durga Vihar, Devli, Sangam Vihar, New Delhi. Complete strength equipment, certified trainers, flexible membership plans, timings, and directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
